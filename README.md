@@ -1,6 +1,6 @@
 **ALICE (Artificial Life Intelligent Computer Entity)**
 
-ALICE es un proyecto inteligencia artificial diseñada para ofrecer asistencia integral en una variedad de tareas, desde la gestión personal hasta la optimización empresarial. Con un avanzado sistema de procesamiento de lenguaje natural, ALICE puede comprender y responder a las solicitudes de los usuarios de manera fluida y natural, haciendo que la interacción sea tan sencilla como conversar con un amigo.
+ALICE es un proyecto de inteligencia artificial diseñada para ofrecer asistencia integral en una variedad de tareas, desde la gestión personal hasta la optimización empresarial. Con un avanzado sistema de procesamiento de lenguaje natural, ALICE puede comprender y responder a las solicitudes de los usuarios de manera fluida y natural, haciendo que la interacción sea tan sencilla como conversar con un amigo.
 
 **Características Principales:**
 
